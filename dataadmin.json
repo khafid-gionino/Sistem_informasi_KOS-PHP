@@ -1,0 +1,27 @@
+{
+    "profile":
+        [
+            {
+                "nama": "Ach.khafid salim",
+                "npm" : "06.2017.1.06762",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/foto1.jpg",
+                "web" : "../khafid"
+            },
+            {
+                "nama": "Aziz Choiri",
+                "npm" : "06.2017.1.06775",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/ajis.JPG",
+                "web" : "http://muchammad-aziz.000webhostapp.com/"
+            },
+            {
+                "nama": "Anjas Purwadi",
+                "npm" : "06.2017.1.06778",
+                "Deskripsi": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ratione laudantium doloremque nulla." ,
+                "gambar": "img/anjas.JPG",
+                "web" : "http://anjas.kuy.web.id/"
+                }
+        ]
+
+}
